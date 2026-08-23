@@ -22,5 +22,7 @@ An end-to-end e-commerce customer analytics and machine learning dashboard desig
 
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/your-username/retailpulse-ai.git](https://github.com/your-username/retailpulse-ai.git)
+   1. Clone the Repository:
+   ```bash
+   git clone [https://github.com/ananyasd-dev/retailpulse-ai.git](https://github.com/ananyasd-dev/retailpulse-ai.git)
    cd retailpulse-ai
