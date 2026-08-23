@@ -3,7 +3,7 @@
 An end-to-end e-commerce customer analytics and machine learning dashboard designed to optimize customer segmentation, cross-selling strategies, and model transparency.
 
 ## 🚀 Live Demo & Overview
-* **Live App:** [View Streamlit App](#) *(Insert your deployed Streamlit Community Cloud link here)*
+* **Live App:**(https://retailpulse-ai-bjvrc3yjeebtwjctslnqhd.streamlit.app/)
 * **Tech Stack:** Python, Streamlit, Pandas, NumPy, Matplotlib, Scikit-Learn
 
 ---
