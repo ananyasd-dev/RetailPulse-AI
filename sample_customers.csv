@@ -1,0 +1,2 @@
+with open("sample_customers.csv", "rb") as f:
+    st.sidebar.download_button("📥 Download Sample CSV Template", f, file_name="sample_customers.csv", mime="text/csv")
